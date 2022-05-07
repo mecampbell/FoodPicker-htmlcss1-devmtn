@@ -1,0 +1,26 @@
+body {
+    background-color: #0d1b2a;
+}
+.btn {
+    position: relative;
+    left: 0vh;
+    top: -5vh;
+    border: none;
+    padding: 14px 28px;
+    font-size: 30px;
+    cursor: pointer;
+    text-align: center;
+    z-index: 1;
+}
+.container {
+    text-align: center;
+    margin: 15%;
+    padding: 120px;
+    background-color: gray;
+}
+p {
+    color: white;
+    font-style: italic;
+    text-align:center;
+    font-size: 75px;;
+}
